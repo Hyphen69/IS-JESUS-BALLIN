@@ -8,5 +8,9 @@ Garbage meme of the day:
 
 Meme sent in by:'IStoleAllSoup CEO of toasters'
 
+<iframe src="http://www.strawpoll.me/embed_1/21180687" style="width:680px;height:300px;border:0;">Loading poll...</iframe>
 
-*Join <a href="https://discord.gg/MjUnbRR">Our discord</a> and send your memes for your meme to be added.
+
+
+
+*Please join <a href="https://discord.gg/MjUnbRR">our discord</a> and send your memes for your meme to be added.
