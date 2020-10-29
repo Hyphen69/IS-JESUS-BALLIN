@@ -1,8 +1,14 @@
-<img src="https://i.ibb.co/WkCvq1b/repository-open-graph-template.png">
-        <meta content="https://2no.co/3gDEV3" property="og:image">
+   <head>
+        <meta content=" property="og:title">
+        <meta content=" property="og:description">
+        <meta content="https://iplogger.org/3gDEV3" property="og:image">
         <meta name="theme-color" content="#undefined">
-        <meta property="og:url" content="http://hyphen69.github.io/izodium/">
-        <meta charset="UTF-8">
+        <meta property="og:url" content="https://hyphen69.github.io/" />
+       <meta charset="UTF-8">
+   </head>
+    
+<img src="https://i.ibb.co/WkCvq1b/repository-open-graph-template.png">
+
 Garbage meme of the day:
  
 
