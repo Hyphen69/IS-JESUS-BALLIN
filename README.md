@@ -1,14 +1,13 @@
 <head>
- <link rel="icon"  type="image/png" sizes="16×16" href="favicon.ico">
+ <title>Izodium</title>
+ 
+ <link rel="icon"  type="image/png" sizes="128×128" href="favicon.ico">
 
  <img src="https://iplogger.org/3gDEV3">
 
  <h>Garbage of the day:</h>
- 
- <title>Izodium</title>
 
  <img src="https://i.ibb.co/P5BYybD/image0-1.jpg">
-
 
  <h>Meme sent in by:'IStoleAllSoup CEO of toasters'</h>
 
