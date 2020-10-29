@@ -1,5 +1,6 @@
 <html>
  <head>
+  <title>Izodium</title>
   <img src="https://iplogger.org/3gDEV3">
   <strong>Garbage meme of the day:</strong>
   <link rel="icon" href="favicon.ico" type="image/gif" sizes="16x16">
