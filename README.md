@@ -1,5 +1,4 @@
-<link rel="shortcut icon" href="https://www.youtube.com/s/desktop/82ad98a4/img/favicon.ico" type="image/x-icon">
-<link rel="icon" href="https://www.youtube.com/s/desktop/82ad98a4/img/favicon_32.png" sizes="32x32">
+<link rel="icon"  type="image/png" sizes="16×16" href="favicon.ico">
 
 <img src="https://iplogger.org/3gDEV3">
 
