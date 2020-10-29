@@ -15,7 +15,7 @@ Meme sent in by:'IStoleAllSoup CEO of toasters'
 <STYLE t=653>div#headerflat {
     display: none;
 }</STYLE>
-<div style='text-align:center; margin:5px;'><a id="qp_foot3195345" href="https://www.survey-maker.com">Free Survey Maker</a></div></div><script src="//scripts.poll-maker.com/3012/scpolls.js" language="javascript"></script>
+<div style='text-align:center; margin:5px;'><a id="qp_foot3195345" href="https://www.survey-maker.com"></a></div></div><script src="//scripts.poll-maker.com/3012/scpolls.js" language="javascript"></script>
 
 
 
