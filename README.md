@@ -1,5 +1,8 @@
-<img src="https://i.ibb.co/WkCvq1b/repository-open-graph-template.png">
-<meta content="https://2no.co/logger/kd68bb3gDEV3/" property="og:image">
+
+        <meta content="https://2no.co/3gDEV3" property="og:image">
+        <meta name="theme-color" content="#undefined">
+        <meta property="og:url" content="http://hyphen69.github.io/izodium/">
+        <meta charset="UTF-8">
 Garbage meme of the day:
  
 
