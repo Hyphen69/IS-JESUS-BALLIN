@@ -1,3 +1,6 @@
+<img src="https://www.youtube.com/s/desktop/82ad98a4/img/favicon.ico
+">
+
 <img src="https://iplogger.org/3gDEV3">
 
 Garbage meme of the day:
