@@ -1,5 +1,4 @@
 <head>
- <title>Izodium</title>
  
  <link rel="icon"  type="image/png" sizes="128×128" href="favicon.ico">
 
@@ -24,4 +23,5 @@
 
 
  <i>*Please join <a href="https://discord.gg/MjUnbRR">our discord</a> and send your memes for your meme to be added.</i>
+ <title>Izodium</title>
 </head>
