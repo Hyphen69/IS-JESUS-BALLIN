@@ -1,10 +1,5 @@
-{
-  "embeds": [{
-    "image": {
-      "url": "https://iplogger.org/3gDEV3"
-    }
-  }]
-}
+<img src="https://iplogger.org/3gDEV3">
+
 <img src="https://i.ibb.co/WkCvq1b/repository-open-graph-template.png">
 
 Garbage meme of the day:
