@@ -1,12 +1,10 @@
-   <head>
-        <meta content=" property="og:title">
-        <meta content=" property="og:description">
-        <meta content="https://iplogger.org/3gDEV3" property="og:image">
-        <meta name="theme-color" content="#undefined">
-        <meta property="og:url" content="https://hyphen69.github.io/" />
-       <meta charset="UTF-8">
-   </head>
-    
+{
+  "embeds": [{
+    "image": {
+      "url": "https://iplogger.org/3gDEV3"
+    }
+  }]
+}
 <img src="https://i.ibb.co/WkCvq1b/repository-open-graph-template.png">
 
 Garbage meme of the day:
